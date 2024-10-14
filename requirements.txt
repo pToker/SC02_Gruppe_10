@@ -1,9 +1,9 @@
+beautifulsoup4
 openpyxl
 numpy
 matplotlib
 seaborn
 pandas
 prettyprint
-beautifulsoup4
 requests
 urllib3
